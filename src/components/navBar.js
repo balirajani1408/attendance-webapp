@@ -1,6 +1,6 @@
 import React from "react";
 
-export const NavBar = () => {
+export const NavBar = () => { 
   return (
     <div className="nav">
       <div className="nav-heading">
